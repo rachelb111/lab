@@ -1,6 +1,6 @@
 //#proof of sequence of operations
 //# before running this, read through the code and predict the outcome
-i = use the last digit of your PUID (unless it is zero, and in that case, use last 2 digits)
+i = 2
 x = i
 xb = i
 y = i
