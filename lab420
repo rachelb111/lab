@@ -1,0 +1,23 @@
+//#proof of sequence of operations
+//# before running this, read through the code and predict the outcome
+i = use the last digit of your PUID (unless it is zero, and in that case, use last 2 digits)
+x = i
+xb = i
+y = i
+yb = i
+z = i
+w = i
+x = x+4
+x = x*3
+x = x**2
+xb = ((xb+4)*3)^2
+y = y**2
+y = y*3
+y = y+4
+yb=((yb**2)*3)+4
+z = z**2*3+4
+w = w*3**2+4
+print ("x xb y yb z w")
+print (x, xb, y, yb, z, w)
+
+
