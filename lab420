@@ -1,5 +1,5 @@
-//#proof of sequence of operations
-//# before running this, read through the code and predict the outcome
+#proof of sequence of operations
+# before running this, read through the code and predict the outcome
 i = 2
 x = i
 xb = i
